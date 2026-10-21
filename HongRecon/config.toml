@@ -1,0 +1,7 @@
+[settings]
+threads = 10
+timeout = 300
+
+[wordlists]
+dirb = "/user/share/seclists/Discovery/Web-Content/raft-large-directories.txt"
+vhosts = "/user/share/seclists/Discovery/DNS/subdomains-top1million-5000.txt"
